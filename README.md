@@ -1,3 +1,7 @@
-# Projekt transformacja, czyli Matrix - poznaj reguły gry
+# Project Transformation (Matrix) - Learn the Rules
 
-Tutaj pojawią się 5 dni z projektu transformacji - część pierwsza
+5 days of transformation
+ - Creating the Repository
+ - 
+ - 
+ - 
